@@ -1,6 +1,6 @@
-<!-- 顶部头图 -->
+<!-- 顶部头图 - jsDelivr 加速 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pooi-woop/pooi-woop/main/85940e964bf0dff3705bf4a3225b36aa35174354.jpg" width="100%" alt="header" />
+  <img src="https://cdn.jsdelivr.net/gh/pooi-woop/pooi-woop@main/85940e964bf0dff3705bf4a3225b36aa35174354.jpg" width="100%" alt="header" />
 </p>
 
 <!-- 打字机效果欢迎语 -->
